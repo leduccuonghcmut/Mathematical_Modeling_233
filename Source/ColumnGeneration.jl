@@ -5,8 +5,6 @@ import Plots
 import SparseArrays
 import Test  #src
 
-
-
 struct Piece
     w::Float64
     d::Int
